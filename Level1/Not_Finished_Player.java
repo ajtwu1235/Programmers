@@ -13,7 +13,7 @@ public static String solution(String[] participant, String[] completion) {
         return participant[completion.length];
     }
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// TODO Auto-generated method stub 
 		String[] part1={"leo","kiki","eden"};
 		String[] comp1={"leo","eden"};
         System.out.println(solution(part1,comp1));
